@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Manipulando Elementos</title>
+    </head>
+    <body>
+    <div id= "app">
+        <a href="http://devabreu.com">Acessar Dev Abreu</a>
+       
+    </div>
+        <script>
+            var linkElement = document.createElement('a');
+             linkElement.href = setAttribute('href', 'http://devabreu.com');
+
+            var textElement = document.createTextNode('Acessar Dev Abreu');
+            linkElement.appendChild(textElement);
+
+            var containerElement = document.querySelector('#app');
+            containerElement.appendChild(linkElement);
+
+        </script>
+    </body>
+</html>
