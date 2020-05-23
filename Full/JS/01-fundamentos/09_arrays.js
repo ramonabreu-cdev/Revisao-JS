@@ -1,0 +1,1 @@
+// estrutura linear, semelhante a um vetor
