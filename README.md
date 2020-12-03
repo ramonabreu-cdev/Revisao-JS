@@ -1,14 +1,14 @@
 # **RevisÃo- Web Developer** <h1>
-### **JAVA SCRIPT** <h3>
-### **HTML** <h3>
-### **CSS** <h3>
-### **PHP** <h3>
-### **NODE** <h3>
-### **REACT** <h3>
-### **ANGULAR** <h3>
-### **VUEJS** <h3>
-### **FLASK** <h3>
-### **DJANGO** <h3>
-### **PHP** <h3>
+### **_JAVA SCRIPT_** <h3>
+### **_HTML_** <h3>
+### **_CSS_** <h3>
+### **_PHP_** <h3>
+### **_NODE_** <h3>
+### **_REACT_** <h3>
+### **_ANGULAR_** <h3>
+### **_VUEJS_** <h3>
+### **_FLASK_** <h3>
+### **_DJANGO_** <h3>
+### **_PHP_** <h3>
 
 
