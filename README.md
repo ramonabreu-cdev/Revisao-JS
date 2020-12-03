@@ -24,10 +24,10 @@ Basicamente você precisa ter apenas vontade de aprender e um dispositivo para r
 
 ## Autor
 
-* **RAMON ABREU**  - [DevAbreu](https://github.com/)
-* **[BLOG]**(https://github.com/) - Posts e Curiosidades.
-* **[CANAL-YOUTUBE]** (https://github.com/)- Cursos, Tutoriais e Novidades.
-* **[LINKEDIN]** (https://github.com/) - Para Contato Profissional.
+* **RAMON ABREU**  - [DevAbreu](https://github.com/).
+* [BLOG](https://github.com/) - Posts e Curiosidades.
+* [CANAL-YOUTUBE](https://github.com/) - Cursos, Tutoriais e Novidades.
+* [LINKEDIN](https://github.com/) - Para Contato Profissional.
 
 
 ## VOCÊ TAMBÉM PODE APOIAR! 
