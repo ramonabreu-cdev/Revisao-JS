@@ -25,9 +25,9 @@ Basicamente você precisa ter apenas vontade de aprender e um dispositivo para r
 ## Autor
 
 * **RAMON ABREU**  - [DevAbreu](https://github.com/)
-[BLOG](https://github.com/)
-[CANAL-YOUTUBE](https://github.com/)
-[LINKEDIN](https://github.com/)
+*[BLOG](https://github.com/)
+*[CANAL-YOUTUBE](https://github.com/)
+*[LINKEDIN](https://github.com/)
 
 
 ## VOCÊ TAMBÉM PODE APOIAR! 
