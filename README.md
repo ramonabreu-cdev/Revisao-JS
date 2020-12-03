@@ -9,8 +9,9 @@ Basicamente você precisa ter apenas vontade de aprender e um dispositivo para r
 
 ## ALGUMAS DAS TECNOLOGIAS ABORDADAS:
 
-* [JavaScript](http://www.dropwizard.io/1.0.2/docs/) - Linguagem de Programação Web (A mais usada no Mercado).
-* [HTML/CSS](https://maven.apache.org/) - Lingaugem de Marcação e Estilos.
+* [JavaScript](https://github.com/ramonabreu-cdev/Revisao-WD/tree/master/Full/JavaScript) - Linguagem de Programação Web (A mais usada no Mercado).
+* [HTML](https://github.com/ramonabreu-cdev/Revisao-WD/tree/master/Full/html) - Linguagem de Marcação.
+* [CSS](https://github.com/ramonabreu-cdev/Revisao-WD/tree/master/Full/css) - Linguagem de Estilos.
 * [PHP](https://rometools.github.io/rome/) - Linguagem Web e Beckend.
 * [NODE](https://rometools.github.io/rome/) - Ambiente de execução JAVASCRIPT. Server-side.
 * [GRAPHQL](https://rometools.github.io/rome/) - Linguagem de consulta e ambiente de execução voltado a servidores para as interfaces de programação de aplicações (APIs).
