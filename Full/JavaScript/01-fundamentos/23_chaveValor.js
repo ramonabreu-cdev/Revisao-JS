@@ -5,6 +5,7 @@ function exec() {
 }
 
 //Objetos  sãogrupos alinhados de chave/ valor
+//observe!!!
 
 const cliente = {
     nome: 'Ramon',
