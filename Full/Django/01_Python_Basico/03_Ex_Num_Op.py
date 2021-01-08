@@ -27,6 +27,7 @@ print("modulo",modulo)
 Tipos de Dados
 """
 
+#um
 tipoInt = type(10)
 print(tipoInt)
 
