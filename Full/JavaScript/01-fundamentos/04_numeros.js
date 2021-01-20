@@ -1,12 +1,11 @@
-
 //definimos uma constate
 const peso1 = 2.0
 
 // outro método
-const peso2 = Number('3.0')
+const peso2 = Number('4.0')
 
 //imprimindo
-console.log( peso1, peso2)
+console.log(peso1, peso2)
 
 //pra saer se é um valor inteiro
 

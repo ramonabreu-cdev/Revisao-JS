@@ -13,15 +13,13 @@ console.log(escola.indexOf('A'))
 console.log(escola.substring(3))
 
 //SubString com intervalo
-console.log(escola.substring(0,3))
+console.log(escola.substring(0, 3))
 
 //Concatenando Strings
 console.log('Escola '.concat(escola).concat("!"))
 
 //Substituir String com a função Replace
-console.log(escola.replace(2 , 'r'))
+console.log(escola.replace(2, 'T'))
 
 //construindo um Array
 console.log('JS,Dart,Python'.split(','))
-
-

@@ -5,7 +5,7 @@ isAtivo = true
 console.log(isAtivo)
 
 //negação duas vezes
-isAtivo = 1
+isAtivo = 2
 console.log(!!isAtivo)
 
 //trabalhando os tipos verdadeiros
