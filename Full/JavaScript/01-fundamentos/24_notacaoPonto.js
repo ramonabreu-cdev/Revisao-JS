@@ -10,3 +10,4 @@ const boj02 = {}
 obj02.nome = 'chuteira'
 console.log(obj02.nome)
     //js
+    // JSJS
